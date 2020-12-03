@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    name: `Fabian Schultz`,
-    title: `Gatsby Deck`,
-    date: `July 30, 2018`,
+    name: `Preeti Sharma`,
+    title: `Watermelondb`,
+    date: `September 24, 2020`,
   },
   plugins: [
     `gatsby-plugin-layout`,
@@ -27,6 +27,15 @@ module.exports = {
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
               maxWidth: 1920,
+            },
+          },
+          {
+            resolve: `gatsby-remark-plantuml`,
+            options: {
+              // It's important to specify the maxWidth (in pixels) of
+              // the content container as this plugin uses this as the
+              // base for generating different widths of each image.
+              maxWidth: 950,
             },
           },
         ],

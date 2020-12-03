@@ -1,25 +1,11 @@
-# Gatsby Deck
+<p align="center">
+  <img src="https://github.com/Nozbe/WatermelonDB/raw/master/assets/logo-horizontal2.png" alt="WatermelonDB" width="539" />
+</p>
 
-Create presentations using Gatsby & React.
+<h4 align="center">
+  A reactive database framework
+</h4>
 
----
-
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
-
----
-
-# 🤫
-
----
-
-## Slides are written in Markdown!
-
-Here's the source of the first slide:
-
-    # Gatsby Deck
-
-    Create presentations using Gatsby & React.
+<p align="center">
+  Build powerful React and React Native apps that scale from hundreds to tens of thousands of records and remain <em>fast</em> ⚡️
+</p>
